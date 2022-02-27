@@ -9,3 +9,18 @@
 <h1 align="center">
     <img alt="readme" title="GeradorSenha" src="./assets/geradorsenha.gif" />
 </h1>
+
+<br>
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do Projeto: 
+
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [VSCode](https://code.visualstudio.com/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+---
+
+Feito com 🤩 by Wires Teles 😎 [Veja meu Linkedin](https://www.linkedin.com/in/wires-teles-javascript-dev/)
